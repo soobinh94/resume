@@ -1,4 +1,4 @@
-# 이력서
+# RESUME
 ![images](images/사진.jpeg)
 
 - e-mail : soobinh94@gmail.com
