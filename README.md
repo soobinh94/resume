@@ -1,4 +1,3 @@
-# RESUME
 ![images](images/사진.jpeg)
 
 - e-mail : soobinh94@gmail.com
@@ -7,10 +6,25 @@
 
 # 소개
 
-안녕하세요 3년차 백엔드 개발자 황수빈입니다.   
+안녕하세요 4년차 백엔드 개발자 황수빈입니다.   
 엣데이터에서 Spring framework 기반의 SKTelecom TANGO 시스템의 PF (Potal,공통) 파트 유지보수와   
 TANGO 시스템에서 관리자 기능을 분리한 시스템인 TAMS 프로젝트를 개발참여 및 일부를 담당했습니다.   
 TAMS 시스템은 Spring Boot framework 기반으로 MSA 아키텍처를 적용하여 개발하였습니다.   
+
+안녕하세요 4년차 백엔드 개발자 황수빈입니다.   
+주로 Spring / Spring Boot 기반의 프로젝트 개발을 경험하였습니다.
+
+엣데이터라는 회사에서 SKT 협력사로 내부 TANGO 라는 통신망 관제 시스템의 공통 파트의 유지보수 개발을 했었습니다.   
+Spring 기반 서비스로 필요한 페이지 및 기능을 추가, 개선 하고 오류 및 버그를 수정하는 일을 했습니다.   
+그리고 Spring Boot 기반의 신규 개발 프로젝트인 APPMeta시스템과 MSA로 설계된 TAMS 시스템 개발을 참여 하여   
+JavaScript, JQuery를 이용하여 프론트단을 개발하고 주로 Rest API를 개발하였습니다
+
+
+2년 차 프론트엔드 엔지니어로 React와 AWS, Github을 이용하여 프로젝트를 
+설계부터 배포, 운영까지 해온 경험을 가지고 있습니다. 
+개발 프로세스와 개발 문화에 관심이 많아 개선 하기 위해 많은 노력을 합니다. 개인적으로 회고를 습관화하여
+ 개발 프로세스와 개발 문화에 녹여 발전하려 노력하고 새로운 기술과 트렌드를 익히고 팀에 소개하는 것을 좋아합니다.
+
 
 <br/>
 
@@ -34,21 +48,25 @@ TAMS 시스템은 Spring Boot framework 기반으로 MSA 아키텍처를 적용�
 
 ### FrontEnd
 
-- JavaScript / JQuery
+- JavaScript, JQuery
+- HTML5, CSS
 
 ### BackEnd
 
 - Java
-- Spring / Spring Boot
-- mySql / Oracle
-- Redis
+- Spring MVC, Spring Batch, Spring Boot
+- Mybatis, JPA
 - Maven
-- Mybatis / JPA   
+
+### DevOps
+
+- MySQL, Oracle, Redis
+- zenkins
 
 ### Tool
 
-- 버전관리 : git / svn
-- CI/CD : zenkins / nexus
+- eclipse, intelliJ, VS Code
+- git / svn 
 
 <br/>
 
